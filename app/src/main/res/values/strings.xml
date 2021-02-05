@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Just a Minute</string>
+    <string name="txt_terms">I agree to the <b>Terms of use.</b></string>
+</resources>
